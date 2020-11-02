@@ -15,6 +15,8 @@ Ao fazer um upload para as redes sociais, a foto seria previamente preparada. Co
 ## Como seria feito?
 Um aplicativo bem simples que poderia fazer copia das fotos escolhidas e prepara-las para serem subidas nas redes sociais.
 
+![com marca dagua](https://user-images.githubusercontent.com/50562794/97903404-bc93ec00-1d1d-11eb-8cc2-5a56ccbb69cb.png)
+![sem marca dagua](https://user-images.githubusercontent.com/50562794/97903413-bef64600-1d1d-11eb-9ab6-63604a34112f.png)
 
 
 O que acham?

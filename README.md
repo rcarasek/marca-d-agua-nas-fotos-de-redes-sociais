@@ -1,1 +1,21 @@
-# App de marca-d'agua-nas-fotos-de-redes-sociais
+# App de marca d'agua nas fotos para as redes sociais
+***
+
+## Qual é o problema?
+É o seguinte. Quando a gente sobe uma foto para o facebook (leia-se qualquer rede social) aquela foto fica “a disposição” para qualquer um baixar e usar.
+Inclusive já temos visto fotos de crianças sendo usadas para essas fake News dizendo algo do tipo “essa princesinha está perdida... blá blá”, porém ao pesquisarmos descobrimos que aquela criança da foto já tem 40 anos de idade e que apenas um bobalhão pegou a foto e criou uma história mentirosa. E muitos caem nessa repassando a mentira.
+
+## Ideia:
+Ao fazer um upload para as redes sociais, a foto seria previamente preparada.
+O que poderíamos fazer?
+retirar qualquer informação de geo-posicionamento.
+Apagar ou borrar algumas informações, como por exemplo nome de escola em uniforme.
+E também, poderíamos colocar marca dágua nas fotos, por exemplo “upload no Facebook em 10/10/2000”
+Como seria feito?
+Um aplicativo bem simples que poderia fazer copia das fotos escolhidas e prepara-las para serem subidas nas redes sociais.
+
+O que acham?
+Mais alguma coisa?
+
+# Help! 
+não tenho a menor ideia de como fazer esse aplicativo!!!
